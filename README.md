@@ -28,8 +28,6 @@ const my_key_terms=["New York","ninja","hard working","Software","Engineer"];
 
 • Sign into your LinkedIn account.
 
-![alt text](https://i.imgur.com/vY2QKjL.jpg)
-
 • Navigate to your LinkedIn network page.
  -https://linkedin.com/mynetwork/
 
