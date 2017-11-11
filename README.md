@@ -1,5 +1,5 @@
 # LinkedIn-Automator
-Automatically send invitations to your LinkedIn suggestions using criteria specified by you.
+Automatically send key word filtered LinkedIn connection requests.
 
 # Installation
 
